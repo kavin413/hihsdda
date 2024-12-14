@@ -1,0 +1,77 @@
+/*h1 {
+    text-decoration: overline;
+    text-transform: capitalize;
+}
+
+h3 {
+    text-decoration: line-through;
+    text-transform: uppercase;
+}
+
+h4 {
+    text-decoration: underline;
+    text-transform: lowercase;
+}
+
+h2 {
+    text-decoration: underline overline;
+    text-transform: none;
+}
+div {
+    height: 100px;
+    background-color: yellow;
+    width: 100px;
+    border-radius: 12px
+}
+
+#div2 {
+    height: 100px;
+    background-color: yellow;
+    width: 100px;
+    border-radius: 0px;
+    transform: scaleX(1.5);
+    transform: scaleY(1.5);
+}
+#div1 {
+    margin: 12px 32px 45px;
+    padding: 12px 30px 24px;
+    border: 1px dotted red;
+}
+
+#div2 {
+    margin: 12px 32px 49px;
+    padding: 12px 30px 24px 30px;
+    border: 12px dotted rgb(21, 255, 0);
+}
+
+#div3 {
+    margin: 12px 32px 50px;
+    padding: 10px 4px;
+    border: 12px solid rgb(21, 255, 0);
+}
+
+#div4 {
+    margin: 32px 39px 49px;
+    padding-top: 12px;
+    padding-bottom: 23px;
+    padding-left: 43px;
+    padding-right: 25px;
+    border: 12px solid #ff0d00;
+}
+
+#div5 {
+    margin: 78px 68px 50px;
+    padding: 50px;
+    border: 12px solid rgb(21, 255, 0);
+}*/
+#logo1 {
+    float: left;
+    height: 132px;
+    width: 132px;
+}
+
+#logo2 {
+    float: right;
+    height: 132px;
+    width: 132px;
+}
