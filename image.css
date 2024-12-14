@@ -64,14 +64,37 @@ div {
     padding: 50px;
     border: 12px solid rgb(21, 255, 0);
 }*/
-#logo1 {
-    float: left;
-    height: 132px;
-    width: 132px;
+div {
+    width: 300px;
+    border: 3px;
 }
 
-#logo2 {
-    float: right;
-    height: 132px;
-    width: 132px;
+#fixed {
+    position: fixed;
+    width: 300px;
+    right: 20px;
+    top: 100px;
+    border: solid 3px green;
+}
+
+#sticky {
+    position: sticky;
+    width: 200px;
+    left: 100px;
+    top: 1px;
+    border: solid 3px rgb(135, 8, 240);
+}
+
+#relative {
+    position: relative;
+    width: 300px;
+    left: 100px;
+    top: 1px;
+    border: solid 3px rgb(255, 8, 0);
+}
+
+#absolute {
+    position: absolute;
+    left: 100px;
+    border: solid 3px rgb(10, 1, 1);
 }
